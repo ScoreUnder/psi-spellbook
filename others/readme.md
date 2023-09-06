@@ -1,6 +1,6 @@
 # Spells from around the web
 
-## Silk Touch
+## [Silk Touch](silk-touch.txt)
 
 Created by [/u/Ultimakekina][Ultimakekina] on Reddit.
 
