@@ -75,7 +75,7 @@ on the XZ plane.
 
 ### [Tree feller](tree-feller.txt)
 
-Magic circle spell. Simply mines upweards from the circle.
+Magic circle spell. Simply mines upwards from the circle.
 
 ## Spells to put on tools
 
